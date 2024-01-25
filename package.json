@@ -9,5 +9,9 @@
   "scripts": {
     "cypress:open": "cypress open",
     "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "cypress-plugin-stripe-elements": "^1.0.2"
   }
 }
